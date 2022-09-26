@@ -13,11 +13,14 @@ Readme:
 	ng version 
 
 =>create new angular project
-	ng new <projectName>
+	y
 
 =>run the file
 	ng serve 
 
 =>run and oper
 	ng serve --open
+
+
+npm install bootstrap
 
