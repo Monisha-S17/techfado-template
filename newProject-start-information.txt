@@ -1,0 +1,23 @@
+Readme:
+
+=> find node version
+	node -v
+
+=>find npm version
+	npm -v
+
+=>angular install
+	npm install -g @angular/cli 
+
+=>find angular version
+	ng version 
+
+=>create new angular project
+	ng new <projectName>
+
+=>run the file
+	ng serve 
+
+=>run and oper
+	ng serve --open
+

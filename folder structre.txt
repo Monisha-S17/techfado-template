@@ -1,0 +1,18 @@
+Folder Setup
+
+service
+
+client
+	dashboard.module
+		home
+		about
+		service
+		portfolio
+		team
+		contact us
+		FAQ
+
+shared
+	header
+	footer
+
